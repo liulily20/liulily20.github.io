@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+   
+    width: 100%;
+    min-width: 300px;
+    background-color: black;
+    
+}
+
+ h1{
+  font-size: 60px;
+  color: white;
+  text-align: left;
+  margin-right: auto;
+   margin-left: auto;
+}
+
+ .container img{
+    width: 229px;
+    height: 120px;
+   padding-top: 10px;
+   padding-left: 20px;
+}
+
+.container{
+   display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+#corpo{
+    width: 100%;
+    height: 100%;  
+    background-color: rgb(72, 72, 72);
+    color: black;
+}
+
+#corpo a{
+   text-decoration: none;
+   color: blue;
+   font-size: 25px;
+   margin: 10px 10px;
+}
+
+#corpo a:hover{
+   color: brown;
+}
+
+#corpo h2{
+  margin: 0;
+   color: white;
+   text-align: center;
+   font-size: 30px;
+}
+
+#leg1{
+   background-color: black;
+   color: white;
+   width: 100%;
+   font-size: 25px;
+   border-radius: 8px; 
+}
+
+.serv {
+   font-size: 25px;
+  padding: 10px 8px;
+  
+}
+
+#leg2{
+   background-color: black;
+   color: white;
+   width: 100%;
+   font-size: 25px;
+   border-radius: 8px; 
+   padding: 0;
+}
+
+.os{
+   font-size: 25px;
+   padding: 10px 8px;
+}
+
+#leg3{
+   background-color: black;
+   color: white;
+   width: 100%;
+   font-size: 25px;
+   border-radius: 8px; 
+   padding: 0;
+}
+
+.pm{
+   font-size: 25px;
+   padding: 10px 8px;
+}
+
+#curso{
+   background-color: rgb(72, 72, 72);
+  font-size: 25px;
+   padding: 10px 8px;
+   color: black; 
+}
+
+#agenda {
+   color: black;
+   font-size: 20px;
+   text-align: right;
+}
+
+input{
+   border: 2px solid black;
+   border-radius: 30px;
+   width: 100px;
+   height: 45px;
+   background-color: black;
+   color: white;
+   font-size: 18px;
+}
+
+ #rodape{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+ }
+
+ #rodape p{
+    color: white;
+ }
+
+ .local{
+    padding: 6px 10px;
+    align-items: center;
+ }
+
+ .end{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .end img{
+    width: 27px;
+ }
+
+ .end p{
+    padding: 0px 7px;
+ }
+
+ .end a{
+    color: white;
+    text-decoration: none;
+ }
+
+ .tel{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .tel img{
+    width: 27px;
+ }
+
+ .tel p{
+    padding: 0px 7px;
+ }
+
+ .tel a{
+    color: white;
+    text-decoration: none;
+ }
+
+ .email{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .email img{
+    width: 27px;
+ }
+
+ .email p{
+    padding: 0px 7px;
+ }
+
+ .email a{
+    color: white;
+    text-decoration: none;
+ }
+
+.redes img{
+    float: right; 
+    padding:5px 12px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

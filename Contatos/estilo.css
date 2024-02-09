@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+   
+    width: 100%;
+    min-width: 300px;
+    background-color: black;
+}
+
+ h1{
+  font-size: 60px;
+  color: white;
+  text-align: left;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+ .container img{
+    width: 229px;
+    height: 120px;
+   padding-top: 10px;
+   padding-left: 20px;
+}
+
+.container{
+   display: flex;
+  align-items: center;
+}
+
+#corpo{
+    width: 100%;
+    height: 625px; 
+    background-color: #7a7a7a;
+}
+
+#corpo a{
+   font-size: 25px;
+  padding: 15px 15px;
+   text-decoration: none;
+   color: black;
+}
+
+#home {
+   color: blue;
+}
+
+#corpo h2{
+   font-size: 35px;
+   text-align: center; 
+}
+ #rodape{
+    background-color: black;
+    width: 100%;
+    height: 100%
+ }
+
+ #cont{
+   color: black;
+ }
+
+ #tel{
+   display: flex;
+   align-items: center;
+ }
+
+ #tel img{
+   width: 75px;
+   height: 60px;
+   padding: 20px 10px;
+ }
+
+ #tel p{
+   font-size: 25px;
+ }
+
+ #whats{
+   display: flex;
+   align-items: center;
+ }
+
+ #whats img{
+   width: 75px;
+   height: 60px;
+   padding: 20px 10px;
+ }
+
+ #whats p{
+   font-size: 25px;
+ }
+
+ #face{
+   display: flex;
+   align-items: center;
+ }
+
+ #face img{
+   width: 75px;
+   height: 60px;
+   padding: 20px 10px;
+ }
+
+ #face p{
+   font-size: 25px;
+ }
+
+ #insta{
+   display: flex;
+   align-items: center;
+ }
+
+ #insta img{
+   width: 75px;
+   height: 60px;
+   padding: 20px 10px;
+ }
+
+ #insta p{
+   font-size: 25px;
+ }
+
+ #rodape p{
+    color: white;
+ }
+
+ .local{
+    padding: 6px 10px;
+    align-items: center;
+ }
+
+ .end{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .end img{
+    width: 27px;
+ }
+
+ .end p{
+    padding: 0px 7px;
+ }
+
+ .end a{
+    color: white;
+    text-decoration: none;
+ }
+
+ .tel{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .tel img{
+    width: 27px;
+ }
+
+ .tel p{
+    padding: 0px 7px;
+ }
+
+ .tel a{
+    color: white;
+    text-decoration: none;
+ }
+
+ .email{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+ }
+
+ .email img{
+    width: 27px;
+ }
+
+ .email p{
+    padding: 0px 7px;
+ }
+
+ .email a{
+    color: white;
+    text-decoration: none;
+ }
+
+.redes img{
+    float: right; 
+    padding:5px 12px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
